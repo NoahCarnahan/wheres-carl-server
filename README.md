@@ -3,7 +3,7 @@
 ## Flask
 Do the following:
 
-    $ cd wheres-carl
+    $ cd wheres-carl-server
     $ virtualenv venv
     $ . venv/bin/activate
     $ pip install -r requirements.txt
